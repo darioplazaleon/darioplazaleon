@@ -3,9 +3,9 @@
 
 Hi! My name is Dario A. Plaza Leon, I am from Argentina, Buenos Aires.
 
-I have a huge interest in coding everything related to technology, actualmente estoy estudiando Android🤖 y Kotlin, en un futuro me gustaria estudias Swift para iOS.
+I have a huge interest in coding everything related to technology, I am currently studying Android🤖 and Kotlin, in the future I would like to study Swift for iOS.
 
-Actualmente estoy trabajando de manera freelance, mientras estoy buscando un trabajo formal.
+I am currently working freelance, while I am looking for a formal job.
 
 - 🔭 I’m currently working on this page
 - 🌱 I’m currently learning Kotlin
