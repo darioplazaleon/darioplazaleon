@@ -11,7 +11,7 @@ I'm a Computer Science student at the University of Buenos Aires (UBA) with a de
     <li>Lua</li>
   </ul>
 - 📫 How to reach me: darioalessandrop@gmail.com
-- ⚡ Fun fact: When I'm not coding, you'll probably find me training or reading about space and military technology."
+- ⚡ Fun fact: When I'm not coding, you'll probably find me training or reading about space and military technology.
 
 <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"> My skills</h2>
 
