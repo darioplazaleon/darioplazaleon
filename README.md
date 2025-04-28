@@ -3,10 +3,10 @@
 
 I'm a Computer Science student at the University of Buenos Aires (UBA) with a deep passion for technology and coding. Driven by curiosity, I’m constantly exploring new areas and expanding my understanding, especially in fields I haven’t yet mastered. Currently working as a freelancer, I am actively seeking opportunities to further my career in a formal role where I can leverage and enhance my skills. My goal is to continuously grow and stay at the forefront of technological advancements, contributing meaningfully to any team or project I join.
 
-- 🔭 I’m currently working on this course-system.
+- 🔭 I’m currently working on this tickets-microservices.
 - 🌱 I’m currently learning:
   <ul>
-    <li>Angular</li>
+    <li>Kubernetes</li>
     <li>Typescript</li>
     <li>Lua</li>
   </ul>
